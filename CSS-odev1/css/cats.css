@@ -1,0 +1,65 @@
+/* cats.css */
+
+/* Temel sayfa stillemesi */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+
+    
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    background-color: rgba(42, 188, 224, 0.3);;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+  }
+  
+  /* Başlık stillemesi */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    color: #3498db;
+  }
+  
+  /* Paragraf stillemesi */
+  p {
+    line-height: 1.6;
+  }
+  
+  /* Sırasız liste stillemesi */
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  /* Liste öğesi stillemesi */
+  li {
+    margin-top: 10px;
+  }
+  
+  /* Resim stillemesi */
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  .catfoto{
+
+    max-width: 100%;
+    height: auto;
+
+
+  }
+  
